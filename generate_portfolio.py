@@ -1,15 +1,16 @@
 import json
-from datetime import UTC, datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
+utc_now = datetime.now(timezone.utc)
 
 # Load JSON data
 with Path("portfolio.json").open(encoding="utf-8") as f:
     data = json.load(f)
 
 # Add any extra context if needed
-data["current_year"] = datetime.now(tz=UTC).year
+data["current_year"] = datetime.now(timezone.utc).year
 
 if "social_links" in data:
     for link in data["social_links"]:
