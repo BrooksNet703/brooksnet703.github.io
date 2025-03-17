@@ -7,23 +7,23 @@
     "phone": "",
     "location": "Round Hill, VA"
   },
-  "summary": "Programming educator on YouTube. Simplifying complex concepts into manageable steps to help learners digest material at their own pace.",
-  "url": "https://coreyms.com",
+  "summary": "Network Engineer.",
+  "url": "https://brookshassinger.com",
   "social_links": [
     {
-      "label": "Coreyms.com",
-      "url": "https://coreyms.com",
+      "label": "brookshassinger.com",
+      "url": "https://brookshassinger.com",
       "svg_path": "img/globe.svg"
     },
     {
       "label": "YouTube",
-      "url": "https://youtube.com/c/coreyms",
+      "url": "https://youtube.com/c/h",
       "svg_path": "img/youtube.svg"
     },
     {
-      "label": "Instagram",
-      "url": "https://www.instagram.com/coreymschafer",
-      "svg_path": "img/instagram.svg"
+      "label": "Credly",
+      "url": "https://www.credly.com/users/brooks-hassinger",
+      "svg_path": "img/credly.svg"
     },
     {
       "label": "Github",
@@ -33,11 +33,11 @@
   ],
   "work_experience": [
     {
-      "company": "LASP (Labratory for Atmospheric and Space Physics)",
-      "position": "Network Engineer",
-      "url": "https://lasp.colorado.edu/",
-      "start_date": "2015",
-      "end_date": "2019",
+      "company": "CARFAX",
+      "position": "Team Lead, Network Engineering",
+      "url": "https://www.carfax.com/",
+      "start_date": "2020",
+      "end_date": "Present",
       "summary": "",
       "highlights": [
         "Created and maintained back-end API services using Flask.",
@@ -46,29 +46,27 @@
       ]
     },
     {
-      "company": "WVU GIS Technical Center",
-      "position": "Network Engineer",
-      "url": "https://wvgis.wvu.edu/",
-      "start_date": "2012",
-      "end_date": "2015",
+      "company": "J. Spargo & Associates",
+      "position": "Director, Information Technology",
+      "url": "https://spargo.com/",
+      "start_date": "2013",
+      "end_date": "2020",
       "summary": "",
       "highlights": [
-        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
-        "Wrote and published geoprocessing services using Python and ArcPy",
-        "Created backend user authentication systems with PHP and MySQL"
+        "Architected and implemented a new network infrastructure for the company",
+        "Designed and implemented a file uploading service",
+        "Created standards of procedure and documentation for the IT department"
       ]
     },
     {
-      "company": "MATRIC (Mid-Atlantic Technology, Research, and Innovation Center)",
-      "position": "Network Engineer",
-      "url": "https://www.matricinnovates.com/",
+      "company": "CISCO",
+      "position": "Network Consulting Engineer",
+      "url": "https://www.cisco.com/",
       "start_date": "2010",
       "end_date": "2011",
       "summary": "",
       "highlights": [
-        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
-        "Developed custom widgets for routing, wind data visualization, and simulations.",
-        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
+        "Consultant for the US Courts and US Patent Trade Office."
       ]
     }
   ],
@@ -96,21 +94,21 @@
   ],
   "volunteer_experience": [
     {
-      "organization": "Heritage Point Assisted Living",
+      "organization": "Ashburn Presbyterian Church",
       "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
+      "url": "https://ashburnpres.org/",
+      "start_date": "2019",
+      "end_date": "Present",
+      "summary": "Built and maintained a PC that is used for creating content for Sunday service every week.",
       "highlights": []
     },
     {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "organization": "Friends of the Shenandoah River",
+      "position": "Sample Collector",
+      "url": "https://fosr.org/",
+      "start_date": "2018",
+      "end_date": "2021",
+      "summary": "Collected water samples to be analyzed for quality.",
       "highlights": []
     }
   ],
@@ -141,27 +139,27 @@
     },
     {
       "name": "System Administration, Linux",
-      "proficiency": 90,
+      "proficiency": 80,
       "proficiency_label": "Advanced"
     },
     {
       "name": "JavaScript, HTML, CSS",
-      "proficiency": 75,
+      "proficiency": 60,
       "proficiency_label": "Comfortable"
     }
   ],
   "interests": [
     {
-      "name": "Woodworking",
-      "summary": "",
+      "name": "Wrenching",
+      "summary": "I like working on cars, especially older BMWs. I have a 2002 BMW 530i that I have been restoring.",
       "images": [
         {
-          "img_path": "portfolio_media/ww1.jpg",
-          "caption": "Chess Board made from Walnut and Maple"
+          "img_path": "portfolio_media/e39_dash.jpg",
+          "caption": "E39 BMW 530i Dash"
         },
         {
-          "img_path": "portfolio_media/ww2.jpg",
-          "caption": "Wooden Necklace from Walnut Scrap"
+          "img_path": "portfolio_media/e39_engine.jpg",
+          "caption": "E39 BMW 530i engine"
         }
       ]
     }
